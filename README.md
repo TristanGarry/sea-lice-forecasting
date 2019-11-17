@@ -20,6 +20,7 @@ Please refer all questions to me at tristan.garry@mail.utoronto.ca
 * Non-hackily form the input tensors
   * Include the farm data in the input tensors (this is not currently implemented because I wasn't happy with my original implementation)
   * Write resampling helper functions to be robust to new data inputs
+* Convert code in jupyter notebook to .py and ensure reproducibility
 * Long-term - write visualisations 
 
 ## Overall project Status: In progress
