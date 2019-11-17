@@ -1,0 +1,11 @@
+Audit Date,The date on which the audit occurred.
+Facility Reference Number,The licence identification number of the facility
+Licence Holder,The name of the company or person that holds the aquaculture licence for the facility. 
+Site Common Name,The name most commonly used to refer to the aquaculture facility.
+Latitude (Decimal Degrees),The latitude position in decimal degrees of the site location.
+Longitude (Decimal Degrees),The longitude position in decimal degrees of the site location.
+Fish Health Zone,General geographic location of the facility. A map of the 10 fish health surveillance zones in DFO Pacific Region can be found at www.pac.dfo-mpo.gc.ca/aquaculture/maps-cartes-eng.html#Fish_Health 
+Industry average L. salmonis motiles per fish,"Lepeophtheirus salmonis is the scientific name for the salmon louse. Motiles refers to female and male preadult and adult stages of the salmon louse. This column shows the average number of motile L. salmonis per farmed salmon examined by industry. From March 1 to June 30, the regulatory threshold is three motiles per fish.  "
+DFO average L. salmonis motiles per fish,"Lepeophtheirus salmonis is the scientific name for the salmon louse. Motiles refers to female and male preadult and adult stages of the salmon louse. This column shows the average number of motile L. salmonis per farmed salmon examined by DFO. From March 1 to June 30, the regulatory threshold is three motiles per fish.  "
+Comments,Comments include details about the statistical agreement between industry and DFO sea lice counts and indicates if follow-up actions were required.
+Year Class,"Year class refers to the amount of time the farmed fish population has spent in seawater. One is less than a year, two is greater than a year.  "
