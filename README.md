@@ -8,6 +8,11 @@ This project aims to use deep learning methods to bring together data including 
 
 Please refer all questions to me at tristan.garry@mail.utoronto.ca
 
+## Using the code
+
+Take a look at the wiki if you want a guide on getting up and running on using the code in this repo. 
+https://github.com/TristanGarry/sea-lice-forecasting/wiki
+
 ## Work to do
 
 If you're looking for which work is being queued up, check out the projects or issues tabs
