@@ -10,12 +10,11 @@ Please refer all questions to me at tristan.garry@mail.utoronto.ca
 
 ## Using the code
 
-Take a look at the wiki if you want a guide on getting up and running on using the code in this repo. 
-https://github.com/TristanGarry/sea-lice-forecasting/wiki
+Take a look at the [wiki](https://github.com/TristanGarry/sea-lice-forecasting/wiki) if you want a guide on getting up and running on using the code in this repo. 
 
 ## Work to do
 
-If you're looking for which work is being queued up, check out the projects or issues tabs
+If you're looking for which work is being queued up, check out the [projects](https://github.com/TristanGarry/sea-lice-forecasting/projects/1) or [issues](https://github.com/TristanGarry/sea-lice-forecasting/issues) tabs
 
 ## Overall project Status: In progress
 
