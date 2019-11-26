@@ -8,3 +8,5 @@ case "$choice" in
   * ) echo "Exiting";;
 esac
 
+jupyter contrib nbextension install --user;
+

@@ -8,3 +8,4 @@
 # Things that shouldn't be pushed to git
 keypair_aws
 *.pem
+logs
