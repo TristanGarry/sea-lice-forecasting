@@ -9,3 +9,4 @@
 keypair_aws
 *.pem
 logs
+.Rproj.user
