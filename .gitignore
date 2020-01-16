@@ -4,6 +4,13 @@
 # Other junk files
 *.ipynb_checkpoints
 *.idea
+*.pyc
+
+# Images
+*.png
+*.jpeg
+*.jpg
+*.svg
 
 # Things that shouldn't be pushed to git
 keypair_aws

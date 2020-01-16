@@ -1,5 +1,5 @@
 import pandas as pd
-import pycode.SLdatahandling as datahandling
+import pycode.SLdatahandling.make_datasets as datahandling
 
 data_dir = '../data/'
 
@@ -10,6 +10,4 @@ industry_data = pd.read_csv(f'{data_dir}IndustrySeaLice_Data.csv', encoding='ISO
 
 # Save the data for R
 datahandling.get_predictor_df(fish_data, site_data, industry_data).to_csv(f'../xdata/predictor_data.csv')
-datahandling.get_motile_df(fish_data).to_csv(f'../xdata/response_data.csv')
-
-
+datahandling.get_motile_df(fish_data[fish_data['location'] == 'Glacier']).to_csv(f'../xdata/response_data.csv')
