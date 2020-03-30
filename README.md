@@ -6,9 +6,9 @@ This repo consists of all the work done to complete my undergrad thesis, the cod
 
 Please refer all questions to me at tristan.garry@mail.utoronto.ca
 
-## [Proposal](https://github.com/TristanGarry/sea-lice-forecasting/blob/master/supporting/TG_Proposal.pdf)
+## [Proposal](https://tristangarry.github.io/sea-lice-forecasting/pdfs/TG_Proposal.pdf)
 
-## [Poster](https://github.com/TristanGarry/sea-lice-forecasting/blob/master/supporting/Tristan_Garry_Poster_EEB498.pdf)
+## [Poster](https://tristangarry.github.io/sea-lice-forecasting/pdfs/Tristan_Garry_Poster_EEB498.pdf)
 
 ## Using the code
 
