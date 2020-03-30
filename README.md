@@ -20,5 +20,5 @@ This project consists of the modelling portion my honours thesis at the Universi
 
 If you're looking for which work is being queued up, check out the [projects](https://github.com/TristanGarry/sea-lice-forecasting/projects/1) or [issues](https://github.com/TristanGarry/sea-lice-forecasting/issues) tabs
 
-## Overall project Status: In progress
+## Overall project Status: Writeup
 
