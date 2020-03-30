@@ -1,12 +1,14 @@
 # sea-lice-forecasting
 
-## Tristan Garry's code accompanying his EEB498 undergraduate honours thesis - It's raining sea lice: forecasting sea lice occurence in juvenile wild salmon
+# Applications of machine learning to the forecasting of short-term sea lice abundances in British Columbia
 
-The aim of this project is to accurately forecast within-season occurence of sea lice on wild salmon in the Broughton Archipelago. 
-
-This project aims to use deep learning methods to bring together data including wild salmon parasite counts, temperature data, and farmed salmon data.
+## This repo consists of all the work done to complete my undergrad thesis, the code can be found here and accompanying writeups can be found in the wiki. 
 
 Please refer all questions to me at tristan.garry@mail.utoronto.ca
+
+## [Proposal](https://github.com/TristanGarry/sea-lice-forecasting/blob/master/supporting/TG_Proposal.pdf)
+
+## [Poster](https://github.com/TristanGarry/sea-lice-forecasting/blob/master/supporting/Tristan_Garry_Poster_EEB498.pdf)
 
 ## Using the code
 
