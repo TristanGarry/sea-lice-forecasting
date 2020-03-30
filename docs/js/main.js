@@ -13,7 +13,7 @@
 	var _moonWidth = _moon.offsetWidth;
 
 	var _prefix;
-	
+
 	var init = function() {
 		setupPrefix();
 		setupMoon();
@@ -52,6 +52,10 @@
 		}
 	};
 
+  // Mouseover function
+  var changeBgColour = function(obj, colorCode) {
+   obj.style.backgroundColor = colorCode 
+  }
 
 	// helper functions
 	var randomTranslate = function() {
