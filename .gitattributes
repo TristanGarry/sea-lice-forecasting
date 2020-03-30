@@ -1,6 +1,7 @@
 # Used to ignore some of the files I don't want counted in git statistics
 # This is necessary due to how the weather station data was retrieved
-*.csv* text
+*.csv.* text
+*.csv   text
 
 # Generated files
 *.pkl  linguist-generated
