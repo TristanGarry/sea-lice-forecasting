@@ -12,18 +12,13 @@ body {
   overflow: hidden;
   margin: 3em auto;
 }
-.moon, .eclipse {
+.moon, {
   position: absolute;
   width: 100%;
   height: 100%;
   border-radius: 50%;
   overflow: hidden;
   z-index: 1;
-}
-.eclipse {
-  background-color: rgb(250, 250, 240);
-  right: -27%;
-  top: -27%;
 }
 .moon--floater {
   position: absolute;
