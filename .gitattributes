@@ -2,4 +2,7 @@
 # This is necessary due to how the weather station data was retrieved
 *.csv* text
 
+# Generated files
+*.pkl  linguist-generated
+*.h5   linguist-generated
 
