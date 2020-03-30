@@ -1,3 +1,3 @@
-# Supporting documents
+# Docs
 
-Files in this folder are likely posted as examples for use in the wiki
+This is the page for the landing page documents
