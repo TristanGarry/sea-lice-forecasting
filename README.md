@@ -2,15 +2,11 @@
 
 # Applications of machine learning to the forecasting of short-term sea lice abundances in British Columbia
 
-This repo consists of all the work done to complete my undergrad thesis, the code can be found here and accompanying writeups can be found in the wiki. 
+## [Accompanying Writeups](https://tristangarry.github.io/sea-lice-forecasting/)
+
+This repo consists of all the work done to complete my undergrad thesis. 
 
 Please refer all questions to me at tristan.garry@mail.utoronto.ca
-
-## [Poster](https://tristangarry.github.io/sea-lice-forecasting/pdfs/Tristan_Garry_Poster_EEB498.pdf)
-
-## [Proposal](https://tristangarry.github.io/sea-lice-forecasting/pdfs/TG_Proposal.pdf)
-
-## [Methods](https://tristangarry.github.io/sea-lice-forecasting/pdfs/TG_Methods.pdf)
 
 ## Using the code
 
