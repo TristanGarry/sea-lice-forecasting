@@ -2,7 +2,7 @@
 
 # Applications of machine learning to the forecasting of short-term sea lice abundances in British Columbia
 
-## This repo consists of all the work done to complete my undergrad thesis, the code can be found here and accompanying writeups can be found in the wiki. 
+This repo consists of all the work done to complete my undergrad thesis, the code can be found here and accompanying writeups can be found in the wiki. 
 
 Please refer all questions to me at tristan.garry@mail.utoronto.ca
 
