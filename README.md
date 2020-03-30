@@ -2,7 +2,7 @@
 
 # Applications of machine learning to the forecasting of short-term sea lice abundances in British Columbia
 
-## [Accompanying Writeups](https://tristangarry.github.io/sea-lice-forecasting/)
+# [Accompanying Writeups](https://tristangarry.github.io/sea-lice-forecasting/)
 
 This repo consists of all the work done to complete my undergrad thesis. 
 
