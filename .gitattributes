@@ -1,0 +1,5 @@
+# Used to ignore some of the files I don't want counted in git statistics
+# This is necessary due to how the weather station data was retrieved
+*.csv* text
+
+
