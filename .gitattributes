@@ -1,26 +1,23 @@
 # Used to ignore some of the files I don't want counted in git statistics
-# These are text files
-*.gitattributes text
-*.gitignore.    text
 
 # This is necessary due to how the weather station data was retrieved
-*.csv.* text
-*.csv   text
-*.1     text
-*.2     text
-*.3     text
-*.4     text
-*.5     text
-*.6     text
-*.7     text
-*.8     text
-*.9     text
-*.10    text
-*.11    text
+*.csv.* linguist-language=Text
+*.csv   linguist-language=Text
+*.1     linguist-language=Text
+*.2     linguist-language=Text
+*.3     linguist-language=Text
+*.4     linguist-language=Text
+*.5     linguist-language=Text
+*.6     linguist-language=Text
+*.7     linguist-language=Text
+*.8     linguist-language=Text
+*.9     linguist-language=Text
+*.10    linguist-language=Text
+*.11    linguist-language=Text
 
 # Generated files
 *.pkl  linguist-generated
 *.h5   linguist-generated
 
 # Jupyter files
-*.ipynb text diff=python
+*.ipynb linguist-language=Python
