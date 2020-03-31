@@ -20,3 +20,5 @@
 *.pkl  linguist-generated
 *.h5   linguist-generated
 
+# Jupyter files
+*.ipynb text diff=python
