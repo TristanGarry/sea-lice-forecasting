@@ -52,11 +52,6 @@
 		}
 	};
 
-  // Mouseover function
-  var changeBgColour = function(obj, colorCode) {
-   obj.style.backgroundColor = colorCode 
-  }
-
 	// helper functions
 	var randomTranslate = function() {
 		return Math.floor(Math.random() * 100 - 50) + '%';
