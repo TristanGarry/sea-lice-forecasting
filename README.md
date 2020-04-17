@@ -18,9 +18,4 @@ This project consists of the modelling portion my honours thesis at the Universi
 
 ## Work to do
 
-If you're looking for which work is being queued up, check out the [projects](https://github.com/TristanGarry/sea-lice-forecasting/projects/1) or [issues](https://github.com/TristanGarry/sea-lice-forecasting/issues) tabs.
-
-As of March 2020, all modelling work is finished and remaining work will be focused on the presentation and discussion of results. 
-
-## Overall project Status: Writeup
-
+As of April 17th, 2020 this project has been completed!
